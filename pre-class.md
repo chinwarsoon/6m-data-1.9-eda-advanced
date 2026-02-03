@@ -4,6 +4,8 @@
 
 **Goal:** Prepare your "mental model" for the upcoming workshop. We will be writing a lot of code in class, so understanding *why* we do these operations beforehand is crucial.
 
+**Video Intro:** [Advanced EDA](https://youtu.be/IzujGGRYjkQ)
+
 ## **1\. Key Concepts to Master**
 
 Please review the following four concepts. You don't need to memorize code syntax yet—just understand the logic.
